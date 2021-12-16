@@ -1,6 +1,6 @@
 # Product-Devlopment
 
-. In this project, a data from Portugal bank institution was used to predict which features affect the marketing campaign. 
+In this project, a data from Portugal bank institution was used to predict which features affect the marketing campaign. 
 
 Source of the dataset: Kaggle or University of California, school of information and Computer Science machine learning repository.
 
